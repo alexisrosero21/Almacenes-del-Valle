@@ -1,0 +1,13 @@
+semana,tienda,producto,categoria,en_promocion,inventario_inicial,demanda_estimada,unidades_vendidas,dias_agotado,venta_perdida_cop
+2025-01-06,Cali Centro,Leche entera 1 L,Lácteos,0,2195,1891,1927,0,0
+2025-01-13,Cali Centro,Leche entera 1 L,Lácteos,0,1854,2062,1732,1,1052099
+2025-01-20,Cali Centro,Leche entera 1 L,Lácteos,1,2275,3584,2570,2,3873103
+2025-01-27,Cali Centro,Leche entera 1 L,Lácteos,0,1790,1667,1579,0,0
+2025-02-03,Cali Centro,Leche entera 1 L,Lácteos,1,2161,2742,2050,2,2607152
+2025-02-10,Cali Centro,Leche entera 1 L,Lácteos,0,1926,1621,1670,0,0
+2025-02-17,Cali Centro,Leche entera 1 L,Lácteos,0,2080,1951,1997,0,0
+2025-02-24,Cali Centro,Leche entera 1 L,Lácteos,0,2018,1890,1891,0,0
+2025-03-03,Cali Centro,Leche entera 1 L,Lácteos,0,2065,2030,2047,1,297344
+2025-03-10,Cali Centro,Leche entera 1 L,Lácteos,0,2090,2272,2112,1,1095969
+2025-03-17,Cali Centro,Leche entera 1 L,Lácteos,0,2054,2091,1999,1,1116147
+2025-03-24,Cali Centro,Leche entera 1 L,Lácteos,0,2195,2144,2138,1,437324
